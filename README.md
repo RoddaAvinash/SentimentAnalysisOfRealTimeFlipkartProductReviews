@@ -23,8 +23,8 @@ cd sentiment-analysis-flipkart
 ## Install the required dependencies:
 Copy code
 pip install -r requirements.txt
-Usage
-## Data Analysis and Model Training:
+## Usage
+Data Analysis and Model Training:
 Explore the Jupyter notebooks in the notebooks directory for data analysis, preprocessing, model training, and evaluation.
 Flask Web Application:
 Navigate to the flask_app directory.
