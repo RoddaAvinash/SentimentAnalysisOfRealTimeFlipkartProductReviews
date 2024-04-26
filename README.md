@@ -14,10 +14,11 @@ requirements.txt: List of Python dependencies required for the project.
 ## Installation
 Clone the repository:
 bash
-Copy code
-git clone https://github.com/your-username/sentiment-analysis-flipkart.git
+Copy code git clone https://github.com/your-username/sentiment-analysis-flipkart.git
+
 Navigate to the project directory:
 bash
+
 Copy code
 cd sentiment-analysis-flipkart
 ## Install the required dependencies:
