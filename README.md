@@ -29,10 +29,10 @@ Access the web application at http://localhost:5000 in your web browser.
 ![review2](https://github.com/RoddaAvinash/SentimentAnalysisOfRealTimeFlipkartProductReviews/assets/155214451/a5291179-4c13-4a7f-bf95-d0b6750619ca)
 ![review2output](https://github.com/RoddaAvinash/SentimentAnalysisOfRealTimeFlipkartProductReviews/assets/155214451/a2d580e9-5015-40d0-9589-fe2de80a4389)
 
-
 ## Model Deployment
 Deploy the Flask web application and trained models on an AWS EC2 instance for accessibility over the internet.
 Ensure proper configuration and security measures are in place for the deployed application.
+YOu can access My AWS Deployment of THe Project: http://54.153.162.63:5000/
 ## Acknowledgements
 Thanks to Innomatics Research Labs and Kanav Bansal for their support and guidance throughout this project.
 
