@@ -11,16 +11,7 @@ notebooks: Jupyter notebooks for data analysis, preprocessing, model training, a
 flask_app: Flask web application for real-time sentiment analysis.
 models: Trained machine learning and deep learning models.
 requirements.txt: List of Python dependencies required for the project.
-## Installation
-Clone the repository:
-bash
-Copy code git clone https://github.com/your-username/sentiment-analysis-flipkart.git
 
-Navigate to the project directory:
-bash
-
-Copy code
-cd sentiment-analysis-flipkart
 ## Install the required dependencies:
 Copy code
 pip install -r requirements.txt
@@ -30,12 +21,18 @@ Explore the Jupyter notebooks in the notebooks directory for data analysis, prep
 Flask Web Application:
 Navigate to the flask_app directory.
 ## Run the Flask app:
-Copy code
-python app.py
 Access the web application at http://localhost:5000 in your web browser.
+## Output Images
+![home](https://github.com/RoddaAvinash/SentimentAnalysisOfRealTimeFlipkartProductReviews/assets/155214451/1ba060b3-657b-47db-89b1-d8c8c14cbfb3)
+![review1](https://github.com/RoddaAvinash/SentimentAnalysisOfRealTimeFlipkartProductReviews/assets/155214451/cd96bb90-1e1e-4afd-9cfc-23fb64cc0690)
+![review1output](https://github.com/RoddaAvinash/SentimentAnalysisOfRealTimeFlipkartProductReviews/assets/155214451/96e16ce1-26f6-467f-b8b7-2ee96263d12a)
+![review2](https://github.com/RoddaAvinash/SentimentAnalysisOfRealTimeFlipkartProductReviews/assets/155214451/a5291179-4c13-4a7f-bf95-d0b6750619ca)
+![review2output](https://github.com/RoddaAvinash/SentimentAnalysisOfRealTimeFlipkartProductReviews/assets/155214451/a2d580e9-5015-40d0-9589-fe2de80a4389)
+
+
 ## Model Deployment
 Deploy the Flask web application and trained models on an AWS EC2 instance for accessibility over the internet.
 Ensure proper configuration and security measures are in place for the deployed application.
 ## Acknowledgements
-Special thanks to Innomatics Research Labs and Kanav Bansal for their support and guidance throughout this project.
+Thanks to Innomatics Research Labs and Kanav Bansal for their support and guidance throughout this project.
 
